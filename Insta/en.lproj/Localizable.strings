@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Insta
+
+  Copyright © 2017 Karim. All rights reserved.
+*/
+
+"LOGIN_USERNAME_TEXTFIELD_PLACEHOLDER" = "Username or email";
+"LOGIN_PASSWORD_TEXTFIELD_PLACEHOLDER" = "Password";
+"LOGIN_BUTTON_TITLE" = "Login";
